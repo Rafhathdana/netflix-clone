@@ -69,4 +69,4 @@ Follow these steps to set up the Netflix Clone locally:
         npm start
 Open your browser and navigate to http://localhost:3000 to access the Netflix Clone.
 
-##Thank You
+## Thank You 
