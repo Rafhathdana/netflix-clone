@@ -12,7 +12,6 @@ This project is a Netflix clone built using the MERN stack (MongoDB, Express.js,
 - **Movie/TV Show Details**: Detailed information is provided for each movie or TV show, including trailers, descriptions, cast, and ratings.
 - **My List**: Users can save movies and TV shows to their personal watchlist for future viewing.
 - **Netflix Player**: Users can watch movies and TV shows directly on the platform.
-- 
 ### Project Methods
 
 The Netflix Clone project includes the following methods:
