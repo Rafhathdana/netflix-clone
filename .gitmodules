@@ -1,0 +1,6 @@
+[submodule "netflix-api"]
+	path = netflix-api
+	url = https://github.com/Rafhathdana/netflix-api
+[submodule "netflix-ui"]
+	path = netflix-ui
+	url = https://github.com/Rafhathdana/netflix-ui.git
