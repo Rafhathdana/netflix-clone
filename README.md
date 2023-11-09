@@ -67,4 +67,16 @@ Follow these steps to set up the Netflix Clone locally:
         npm start
 Open your browser and navigate to http://localhost:3000 to access the Netflix Clone.
 
+
+## Contributing
+We welcome contributions to improve Jobooking! Feel free to fork the repository, create pull requests, and report issues. Please follow the contribution guidelines when submitting changes.
+
+## License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or support, please reach out to our team at [danarafha@gmail.com](mailto:danarafha@gmail.com).
+
 ## Thank You 
